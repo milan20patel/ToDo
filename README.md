@@ -7,6 +7,7 @@ To do list application, created as part of a mobile development course.
 ### Some pages of the app
 
 Start Page:
+
 <img src="https://github.com/milan20patel/ToDo/blob/0d60bb262593ae2ff8f5fe3c0c923a7157bf8770/Images/Google%20Pixel%207%20Pro%2C%206%20Pro%20%E2%80%93%203.jpg" alt="Start Page" style="width: 20%;">
 
 To-do page:
@@ -22,6 +23,7 @@ Confetti after completing a task:
 <img src="https://github.com/milan20patel/ToDo/blob/0d60bb262593ae2ff8f5fe3c0c923a7157bf8770/Images/Google%20Pixel%207%20Pro%2C%206%20Pro%20%E2%80%93%206.jpg" alt="Confetti animation" style="width: 20%;">
 
 Late Task :
+
 <img src="https://github.com/milan20patel/ToDo/blob/0d60bb262593ae2ff8f5fe3c0c923a7157bf8770/Images/Google%20Pixel%207%20Pro%2C%206%20Pro%20%E2%80%93%205.jpg" alt="Late Task" style="width: 20%;">
 
 
