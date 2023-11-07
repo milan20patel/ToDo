@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyTodoList</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="task_id">Task Id</string>
+    <string name="task_name">Title</string>
+    <string name="task_description">Description</string>
+    <string name="task_dateOption">No Date</string>
+    <string name="add">Add Task</string>
+    <string name="todo">To-Do Tasks</string>
+    <string name="late">Late Tasks</string>
+    <string name="done">Completed Tasks</string>
+    <string name="back">Back</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
