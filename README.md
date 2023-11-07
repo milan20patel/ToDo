@@ -2,7 +2,7 @@
 To do list application, created as part of a mobile development course.
 
 ### AppIcon
-<img src="https://github.com/Pablo-Rio/MyTodoList/blob/main/app/src/main/ic_launcher-playstore.png" alt="logo" style="width: 20%;">
+<img src="https://github.com/milan20patel/ToDo/blob/5ca6fb09750a0d87fe48463e94111dae41e62258/app/src/main/res/drawable/icon.png" alt="logo" style="width: 20%;">
 
 ### Some pages of the app
 
